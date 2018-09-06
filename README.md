@@ -1,2 +1,2 @@
 # SunshineWeather
-Android app showing weekly weather forecast.
+Android app showing weekly weather forecast using OpenWeatherMap.
